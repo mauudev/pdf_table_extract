@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.vscode/
+rag_pipeline_unstruct_pdf/research_docs/
 
 # C extensions
 *.so
