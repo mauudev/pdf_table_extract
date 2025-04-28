@@ -6,5 +6,6 @@ tiktoken
 langchain 
 langchain-community 
 langchain-openai 
+langchain-groq
 python_dotenv
 openai
