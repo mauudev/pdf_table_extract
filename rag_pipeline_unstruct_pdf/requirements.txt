@@ -8,3 +8,4 @@ langchain-community
 langchain-openai 
 python_dotenv
 openai
+pydantic
